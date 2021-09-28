@@ -43,12 +43,12 @@
                     <tbody>
 
                         <tr>
-                            <td>Name</td>
+                            <td>First Name</td>
                             <td>{{ $user->first_name }}</td>
                         </tr>
 
                         <tr>
-                            <td>Name</td>
+                            <td>Last Name</td>
                             <td>{{ $user->last_name }}</td>
                         </tr>
 

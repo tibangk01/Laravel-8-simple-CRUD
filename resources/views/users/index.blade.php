@@ -102,7 +102,7 @@
 
                                         @method('DELETE')
 
-                                        <button type="submit" class="badge bg-warning border-0">
+                                        <button type="submit" class="badge bg-danger border-0">
 
                                             <i class="fas fa-trash" aria-hidden="true"></i>
 
