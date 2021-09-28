@@ -47,7 +47,7 @@
 
                                 <li class="nav-item">
 
-                                    <a class="nav-link active" aria-current="page" href="{{ route('user.index') }}">{{ __('Users') }}</a>
+                                    <a class="nav-link active" aria-current="page" href="{{ route('user.index') }}">Users</a>
 
                                 </li>
 
